@@ -1,0 +1,10 @@
+{
+  "name": "tslint-config-blargbot",
+  "version": "1.0.0",
+  "description": "tslint config for blargbot",
+  "main": "index.js",
+  "repository": "https://github.com/blargbot/tslint-config",
+  "author": "stupid cat <cat@blargbot.xyz>",
+  "license": "MIT",
+  "private": false
+}
