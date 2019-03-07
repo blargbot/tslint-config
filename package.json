@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config-blargbot",
+  "name": "@blargbot/tslint-config-blargbot",
   "version": "1.0.0",
   "description": "tslint config for blargbot",
   "main": "index.js",
